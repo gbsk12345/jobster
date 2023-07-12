@@ -1,0 +1,3 @@
+[submodule "jobster"]
+	path = jobster
+	url = https://github.com/gbsk12345/jobster.git
